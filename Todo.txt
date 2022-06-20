@@ -1,0 +1,7 @@
+1.Create a header
+2.Create the rock paper scissors button
+Create a view for contest
+3.Create on click event which on clicking will decide the user won or not.
+4.We need to hide the button and show the actual winner
+5.Figure what the computer will pick
+6.compare results and figure who won.
